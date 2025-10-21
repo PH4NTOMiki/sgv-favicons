@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512" height="512" viewBox="0 0 512 512">
+
+  <!-- Text outlines (scaled non-uniformly to prioritize vertical occupancy) -->
+  <g transform="translate(-18.92 502.00) scale(0.290292 0.682204)">
+    <path d="M388.672-721.191L388.672 0L246.582 0L246.582-586.914L99.609-586.914L99.609-695.801L388.672-721.191Z M873.730-710.938L873.730-601.074Q753.125-459.961 709.668-346.924Q666.211-233.887 666.211-87.891L666.211-87.891L666.211 0L523.633 0L523.633-87.891Q523.633-236.328 578.076-358.643Q632.520-480.957 736.523-601.074L736.523-601.074L373.730-601.074L373.730-710.938L873.730-710.938Z M1277.734-721.191L1277.734 0L1135.645 0L1135.645-586.914L988.672-586.914L988.672-695.801L1277.734-721.191Z " fill="black" stroke="none" />
+  </g>
+
+  <!-- Prominent arrow confined to right area and to the right of the text -->
+  <g transform="rotate(45 432 256)"
+     stroke="red" stroke-linecap="round" stroke-linejoin="round" fill="red">
+    <line x1="383.497449431174" y1="256" x2="480.502550568826" y2="256" stroke-width="42.639604895671205" />
+    <polygon points="480.502550568826,162.19286922952335 574.3096813393026,256 480.502550568826,349.80713077047665" />
+  </g>
+</svg>
