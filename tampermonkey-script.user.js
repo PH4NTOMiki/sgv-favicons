@@ -3,7 +3,7 @@
 // @namespace    http://mikitvba.com
 // @version      1.0
 // @description  Updates favicon based on page title
-// @match        https://mikitvba.com/*
+// @match        https://cgm.mikitvba.com/*
 // @grant        none
 // ==/UserScript==
 
