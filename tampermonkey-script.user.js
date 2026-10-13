@@ -16,7 +16,7 @@
         var match = val.match(/\d{1,3}\.\d{1,2}/);
         var num = match ? match[0] : val;
 
-        var imgurl = 'https://mikitvba.com/sgv-favicons/out/val_' + num.replace('.','') + '_' + ({'→':'east','↓':'south','↑':'north','↗':'northeast','↘':'southeast','⇈':'north','⇊':'south'})[val.slice(-1)] + '_512.png?ts=' + Math.random();
+        var imgurl = 'https://cdn.jsdelivr.net/gh/PH4NTOMiki/sgv-favicons/out/val_' + num.replace('.','') + '_' + ({'→':'east','↓':'south','↑':'north','↗':'northeast','↘':'southeast','⇈':'north','⇊':'south'})[val.slice(-1)] + '_512.png?ts=' + Math.random();
         console.log(imgurl);
 
         let links = document.querySelectorAll('link[rel*=icon]');
